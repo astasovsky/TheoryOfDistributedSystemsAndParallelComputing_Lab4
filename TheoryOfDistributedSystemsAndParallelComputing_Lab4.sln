@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheoryOfDistributedSystemsAndParallelComputing_Lab4", "TheoryOfDistributedSystemsAndParallelComputing_Lab4.csproj", "{C316FB16-2A51-4615-A90C-7316483F0F8D}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheoryOfDistributedSystemsAndParallelComputing_Lab4", "TheoryOfDistributedSystemsAndParallelComputing_Lab4.csproj", "{C316FB16-2A51-4615-A90C-7316483F0F8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,11 @@ Global
 		{C316FB16-2A51-4615-A90C-7316483F0F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C316FB16-2A51-4615-A90C-7316483F0F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C316FB16-2A51-4615-A90C-7316483F0F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E7B107-6B6A-44D4-8E44-908AFADDB015}
 	EndGlobalSection
 EndGlobal
